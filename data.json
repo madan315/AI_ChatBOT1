@@ -1,0 +1,22 @@
+[
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there!"
+  },
+  {
+    "question": "what is ai",
+    "answer": "AI stands for Artificial Intelligence."
+  },
+  {
+    "question": "how are you",
+    "answer": "I'm just a bot, but I'm doing great!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  }
+]
