@@ -3,7 +3,8 @@ import pickle
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 
-with open("data.json", "r") as f:
+# with open("data.json", "r") as f: # grammar_chatbot_dataset
+with open("grammar_chatbot_dataset.json", "r") as f:
     data = json.load(f)
 
 questions = [item["question"] for item in data]
